@@ -3,7 +3,7 @@
 // ==========================================
 
 const daftarVideo = [
-"https://cdn2.videy.co/5jkNUzJb1.mp4",
+"https://cdn.videy.co/5jkNUzJb1.mp4",
 "https://cdn2.videy.co/CU550Zof1.mp4?fbclid=IwSU9FWAUY-nVwZG9mAWV4dG4DYWVtAjEwAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHqf3Qionr6UY7gbBcYQXcl9SBvz7E75XZPJACYTXZTd2dwtp8CinrTjdcmrf_aem_S5zDJQHdUwt-eaaLl_p-SA",
 "https://cdn2.videy.co/lZBK9W3A1.mp4?fbclid=IwSU9FWAUY-mdwZG9mAWV4dG4DYWVtAjEwAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHtTxuBU7XH2HHEVloXy_sO8QgMCvzZCnW4N2XSNFKyflt5cyyCBvI1ZDYEOH_aem_2vw3UywlqcbCaexuN_HKvg",
 "https://cdn2.videy.co/xn4L8uRk1.mp4?fbclid=IwSU9FWAUY-ldwZG9mAWV4dG4DYWVtAjEwAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHqf3Qionr6UY7gbBcYQXcl9SBvz7E75XZPJACYTXZTd2dwtp8CinrTjdcmrf_aem_S5zDJQHdUwt-eaaLl_p-SA",
