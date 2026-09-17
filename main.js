@@ -3,17 +3,17 @@
 // ==========================================
 
 const daftarVideo = [
-"https://cdn2.videy.co/5jkNUzJb1.mp4",
-"https://cdn2.videy.co/5jkNUzJb1.mp4",
-"https://cdn2.videy.co/5jkNUzJb1.mp4",
-"https://cdn2.videy.co/5jkNUzJb1.mp4",
-"https://cdn2.videy.co/5jkNUzJb1.mp4",
-"https://cdn2.videy.co/5jkNUzJb1.mp4",
-"https://cdn2.videy.co/5jkNUzJb1.mp4",
-"https://cdn2.videy.co/5jkNUzJb1.mp4",
-"https://cdn2.videy.co/5jkNUzJb1.mp4",
-"https://cdn2.videy.co/5jkNUzJb1.mp4",
-"https://cdn2.videy.co/5jkNUzJb1.mp4",
+"https://cdn.videy.co/5jkNUzJb1.mp4",
+"https://cdn.videy.co/5jkNUzJb1.mp4",
+"https://cdn.videy.co/5jkNUzJb1.mp4",
+"https://cdn.videy.co/5jkNUzJb1.mp4",
+"https://cdn.videy.co/5jkNUzJb1.mp4",
+"https://cdn.videy.co/5jkNUzJb1.mp4",
+"https://cdn.videy.co/5jkNUzJb1.mp4",
+"https://cdn.videy.co/5jkNUzJb1.mp4",
+"https://cdn.videy.co/5jkNUzJb1.mp4",
+"https://cdn.videy.co/5jkNUzJb1.mp4",
+"https://cdn.videy.co/5jkNUzJb1.mp4",
 
 ];
 
@@ -137,7 +137,7 @@ if (video) {
 
     video.addEventListener("timeupdate", () => {
 
-        if (video.currentTime >= 5) {
+        if (video.currentTime >= 1) {
 
             sudah5Detik = true;
 
