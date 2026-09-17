@@ -3,17 +3,17 @@
 // ==========================================
 
 const daftarVideo = [
-"https://cdn.aceimg.com/SkPpJbatf.mp4",
-"https://cdn.aceimg.com/SkPpJbatf.mp4",
-"https://cdn.aceimg.com/SkPpJbatf.mp4",
-"https://cdn.aceimg.com/SkPpJbatf.mp4",
-"https://cdn.aceimg.com/SkPpJbatf.mp4",
-"https://cdn.aceimg.com/SkPpJbatf.mp4",
-"https://cdn.aceimg.com/SkPpJbatf.mp4",
-"https://cdn.aceimg.com/SkPpJbatf.mp4",
-"https://cdn.aceimg.com/SkPpJbatf.mp4",
-"https://cdn.aceimg.com/SkPpJbatf.mp4",
-"https://cdn.aceimg.com/SkPpJbatf.mp4",
+"https://cdn2.videy.co/5jkNUzJb1.mp4",
+"https://cdn2.videy.co/5jkNUzJb1.mp4",
+"https://cdn2.videy.co/5jkNUzJb1.mp4",
+"https://cdn2.videy.co/5jkNUzJb1.mp4",
+"https://cdn2.videy.co/5jkNUzJb1.mp4",
+"https://cdn2.videy.co/5jkNUzJb1.mp4",
+"https://cdn2.videy.co/5jkNUzJb1.mp4",
+"https://cdn2.videy.co/5jkNUzJb1.mp4",
+"https://cdn2.videy.co/5jkNUzJb1.mp4",
+"https://cdn2.videy.co/5jkNUzJb1.mp4",
+"https://cdn2.videy.co/5jkNUzJb1.mp4",
 
 ];
 
